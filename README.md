@@ -1,4 +1,4 @@
-![Taran's GitHub stats](https://github-readme-stats.vercel.app/api?username=taran-duba&show_icons=true&theme=radical)]
+![Taran's GitHub stats](https://github-readme-stats.vercel.app/api?username=taran-duba&show_icons=true&theme=cobalt)
 
 <!--
 **taran-duba/taran-duba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
