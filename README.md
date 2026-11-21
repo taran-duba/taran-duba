@@ -8,7 +8,7 @@ I'm a high school student in Charlotte, North Carolina (Class of 2028). I teach 
 A few things I've built:
 
 - [sim-sandbox](https://github.com/yeti-robotics/sim-sandbox): practice PID tuning on FRC mechanisms without a physical robot
-- [FileAtlas](https://github.com/tralalero-tech-support/greencode-hack): Google Drive as an interactive node graph, greenCode Hackathon winner
-- [Clairify](https://clairify.vercel.app): NASA air quality data and Gemini, turned into respiratory health guidance
+- [Permafrost](https://github.com/taran-duba/permafrost): SolidWorks file sharing over Google Drive, with check-out locks and full history
+- [Lunaris360](https://lunaris360.earth): lunar south pole mission planning in the browser
 
 More on my [portfolio](https://taran-duba.github.io). You can also reach me on [LinkedIn](https://www.linkedin.com/in/taran-duba/) or at taran.duba3@gmail.com.
