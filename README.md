@@ -12,3 +12,5 @@ A few things I've built:
 - [Lunaris360](https://lunaris360.earth): lunar south pole mission planning in the browser
 
 More on my [portfolio](https://taran-duba.github.io). You can also reach me on [LinkedIn](https://www.linkedin.com/in/taran-duba/) or at taran.duba3@gmail.com.
+
+<img alt="Taran's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=taran-duba&show_icons=true&theme=cobalt&hide_border=true"/>
